@@ -1,20 +1,20 @@
 {
-  "366951343119925252": [
-    "Partnered Server Owner": [
-      "image": "https://cdn3.emoji.gg/emojis/5477-partnered-server-owner.png",
-      "link": "https://support.discord.com/hc/en-us/articles/360047513451-Partner-Program-Mega-FAQ"
-    ],
-    "Discord Bug Hunter": [
-      "image": "https://cdn3.emoji.gg/emojis/7904-discord-bughunterlv2.png",
-      "link": "https://discord.com/security"
-    ],
-    "Early Supporter": [
-      "image": "https://cdn3.emoji.gg/emojis/6832-badge-earlysupporter.png",
-      "link": ""
-    ],
-    "Subscriber since 30 Sep 2018": [
-      "image": "https://vignette.wikia.nocookie.net/discord/images/b/b8/Nitro_badge.png/revision/latest?cb=20200615092656",
-      "link": ""
-    ]
-  ]
-}
+    "366951343119925252": {
+        "Partnered Server Owner": {
+            "image": "https://cdn3.emoji.gg/emojis/5477-partnered-server-owner.png",
+            "link": "https://support.discord.com/hc/en-us/articles/360047513451-Partner-Program-Mega-FAQ"
+        },
+        "Discord Bug Hunter": {
+            "image": "https://cdn3.emoji.gg/emojis/7904-discord-bughunterlv2.png",
+            "link": "https://discord.com/security"
+        },
+        "Early Supporter": {
+            "image": "https://cdn3.emoji.gg/emojis/6832-badge-earlysupporter.png",
+            "link": ""
+        },
+        "Subscriber since 30 Sep 2018": {
+            "image": "https://vignette.wikia.nocookie.net/discord/images/b/b8/Nitro_badge.png/revision/latest?cb=20200615092656",
+            "link": ""
+        }
+    }
+}  
